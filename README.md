@@ -8,8 +8,6 @@
 * [Instructables index](http://www.instructables.com/howto/pizza+oven/)
 * [Forno Bravo community](http://www.fornobravo.com/community/)
 * [Vitcas](http://shop.vitcas.com/wood-fired-ovens-13-c.asp?gclid=CjwKEAjw8bO3BRDp0bP_vL-7_lASJACL_d6wbtamUtjwQuEWVlBePiHBUM4MF_emAF4gc5Wr5-PMqxoC56Xw_wcB)
-* [Concrete slabs](http://www.pavingexpert.com/pccflag1.htm)
-* [Concrete slabs](http://www.easymixconcrete.com/news/types-of-concrete-and-their-strengths/)
 
 ## Fire-bricks
 
