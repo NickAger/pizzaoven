@@ -1,7 +1,7 @@
 # pizzaoven
 
 * [My Build](https://github.com/NickAger/pizzaoven/tree/master/pizza-oven-images/my%20build)
-* [Made by me](https://www.facebook.com/madebymeovens/)
+* [Made by me ovens](https://www.facebook.com/madebymeovens/)
 
 ## Links
 * [INTOCAST](http://www.intocast.co.uk/pizza-and-wood-burning-ovens) "We stock thousands of new and reclaimed firebricks, as well as cements and ceramic fibre blankets. We also stock a number of refractory castables including insulation castables.  Please see our product range. No order is too small. "
